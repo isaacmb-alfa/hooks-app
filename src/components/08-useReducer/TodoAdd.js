@@ -20,7 +20,7 @@ export const TodoAdd = ({ handleAddTodo }) => {
         reset();
 
     }
-    
+
     return (
         <>
             <h4>Agregar TODO</h4>
